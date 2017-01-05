@@ -1,0 +1,8 @@
+.generic-email-widget svg {
+	color: black;
+	fill: currentColor;
+	max-width: 100px;
+}
+.generic-email-widget h1 {
+	margin: 10px 0;
+}
